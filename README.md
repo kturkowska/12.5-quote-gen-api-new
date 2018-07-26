@@ -1,1 +1,1 @@
-https://kturkowska.github.io/12.5-quote-gen-api/
+https://kturkowska.github.io/12.5-quote-gen-api-new/
